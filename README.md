@@ -54,3 +54,17 @@ $ jupyter-lab
 :heavy_check_mark: Select popularity above 70
 
 :black_square_button: [Data science template](https://drivendata.github.io/cookiecutter-data-science/)
+
+### Improvements after reading solution:
+
+:black_square_button: [Solution](https://github.com/letpires/7DaysOfCodeSpotifyML/tree/main/DIA%2002%20-%20Pr%C3%A9%20processamento%20de%20dados?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Machine+Learning+3%2F7%3A+Divis%C3%A3o+dos+dados+e+valida%C3%A7%C3%A3o+cruzada&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Js+e+DOM+-+3%C2%AA+Ed+%29+3%2F7)
+
+## Train and Test, day 03/07:
+
+:black_square_button: StratifiedKFold
+
+:black_square_button: [Cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
+
+:black_square_button: Data cleaning
+
+:heavy_check_mark: Split train and test
