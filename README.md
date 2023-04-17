@@ -1,6 +1,4 @@
-<style type="text/css">
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
-
+<style>
 .info-msg,
 .success-msg,
 .warning-msg,
@@ -28,7 +26,6 @@
   color: #D8000C;
   background-color: #FFBABA;
 }
-
 </style>
 
 # 7DaysOfCode
